@@ -9,6 +9,8 @@
     'description': """ ventes """,
     'data': [    
           'views/produit.xml',
+          'views/invoice.xml',
+          'views/achat.xml',
 #         'views/sale.xml',
 #         'security/security.xml',
 #         'security/ir.model.access.csv',
